@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/etcd:3.2.24
+FROM gcr.io/google-containers/etcd:3.2.24
 MAINTAINER songtaohz
